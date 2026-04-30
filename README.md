@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Fergus 👋
 
-I'm Fergus, a programmer based in the United Kingdom.
+Python developer based in the United Kingdom.
 
-I specialise in Python, focussing on fullstack web-development using Django as a base Framework, though program whatever I find interesting or amusing at the time.
+I specialise in fullstack web-development using django.
+Stack **Python, Django, HTML, TailwindCSS, JavaScript**
 
-My web-development stack is Python, HTML, Tailwind, and JavaScript.
+### My current interests are:
+- Emergent behavior systems
+- Craig Reynolds Boids
+- Market simulation
 
+If something peaks my interest I make it in Python.
