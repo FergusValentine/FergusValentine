@@ -10,4 +10,4 @@ Stack **Python, Django, HTML, TailwindCSS, JavaScript**
 - Craig Reynolds Boids
 - Market simulation
 
-If something peaks my interest I make it in Python.
+If something peaks my interest I make it with Python.
