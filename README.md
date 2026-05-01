@@ -2,7 +2,7 @@
 
 Python developer based in the United Kingdom.
 
-I specialise in fullstack web-development using django.
+I specialise in backend web-development using django, and am also comfortable with Full-Stack.
 Stack **Python, Django, HTML, TailwindCSS, JavaScript**
 
 ### My current interests are:
