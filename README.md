@@ -8,6 +8,6 @@ Stack **Python, Django, HTML, TailwindCSS, JavaScript**
 ### My current interests are:
 - Emergent behavior systems
 - Craig Reynolds Boids
-- Market simulation
+- Microeconomics simulation
 
 If something peaks my interest I make it with Python.
