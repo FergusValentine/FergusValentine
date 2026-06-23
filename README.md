@@ -2,10 +2,10 @@
 
 Python developer based in the United Kingdom.
 
-I specialise in backend web-development using django, and am also comfortable with Full-Stack.
-Stack **Python, Django, HTML, TailwindCSS, JavaScript**
+I am a programmer, with experience using multiple languages such as Python, C family languages, Lua, etc. I specialise in Python, using it to create software and web-dev projects. 
 
 ### My current interests are:
+- Studying professional design patterns and architecture
 - Emergent behavior systems
 - Craig Reynolds Boids
 - Microeconomics simulation
